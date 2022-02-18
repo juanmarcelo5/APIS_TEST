@@ -8,7 +8,7 @@ Diseño de un REST API  ABM de usuarios, hecho con Nodejs y como base datos Mong
 ### Paso 3
     >npm install desde una terminal ejecuta el comando npm install para obtener todas las dependencias
 ### Paso 4
-    >npm start luego desde una terminal ejecuta el comando npm start
+    >npm start una vez hecho el paso 3 se debe ejecutar el siguiente comando npm star para levantar el proyecto
 # Para probar la API
 ### Paso 1
     >Abrir Postman 
