@@ -2,11 +2,11 @@
 Diseño de un REST API  ABM de usuarios, hecho con Nodejs y como base datos MongoDB
 # Instalacion
 ### Paso 1 
-    > git clone https://github.com/juanmarcelo5/APIS_TEST.git
+    > git clone https://github.com/juanmarcelo5/APIS_TEST.git desde una terminal clonar el proyecto
 ### Paso 2 
-    >cd API_TEST  accede a la carpeta API_TEST
+    >cd APIS_TEST  accede a la carpeta APIS_TEST
 ### Paso 3
-    >npm install desde una terminal ejecuta el comando npm install
+    >npm install desde una terminal ejecuta el comando npm install para obtener todas las dependencias
 ### Paso 4
     >npm start luego desde una terminal ejecuta el comando npm start
 # Para probar la API
